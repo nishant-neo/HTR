@@ -1,7 +1,7 @@
 # HandwritingRecognition (MultiDimensional RecurrentNeuralNetworks)
 Recognize handwritten text in scanned documents using MultiDimensional Recurrent Neural Networks
 
-Creates a network based on [MultiDimensional RNNs](http://people.idsia.ch/~juergen/nips2009.pdf) architecture using python and cython with Connectionist Temporal Classification (CTC) cost function.
+Creates a network based on [MultiDimensional RNNs](http://people.idsia.ch/~juergen/nips2009.pdf) architecture using python and cython with Connectionist Temporal Classification (CTC) cost function. This work was based on the code developed by[https://github.com/suhaspillai] and many changes have been conducted to fin our solution.
 
 ## Features
 * Creates Multidimensional LSTM network.
@@ -55,4 +55,4 @@ Run the following command
 ```
 python test.py
 ```
-Code courtesy: https://github.com/suhaspillai
+
